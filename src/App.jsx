@@ -12,7 +12,7 @@ import Login from "./Component/Login/Login";
 import Register from "./Component/Register/Register";
 import NotFound from "./Component/NotFound/NotFound";
 import WishList from "./Component/wishList/wishList";
-import VerifyCode from "./Component/verifyCode/verifyCode";
+import VerifyCode from "./Component/VerifyCode/VerifyCode";
 import EmailContextProvider from "./Contexts/EmailContext";
 import ProtectedEmailRoute from "./Component/ProtectedEmailRoute/ProtectedEmailRoute";
 import ResetAccount from "./Component/ResetAccount/ResetAccount";
